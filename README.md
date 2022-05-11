@@ -1,6 +1,6 @@
 # Getting Started with Jest Sample Application
 
-This is a sample application project using Jest, a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
+This is a sample application project using [Jest](https://jestjs.io/), a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
 
 It is served as my training to get familiar in React ecosystem from an online course conducted by one of the best instructors [Yihua Zhang](https://github.com/ZhangMYihua) and his team.
 
