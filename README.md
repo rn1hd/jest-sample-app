@@ -4,7 +4,7 @@ This is a sample application project using Jest, a JavaScript testing framework 
 
 It is served as my training to get familiar in React ecosystem from an online course conducted by one of the best instructors [Yihua Zhang](https://github.com/ZhangMYihua) and his team.
 
-## Available Script
+## Available Scripts
 
 In the project directory, you can run:
 
